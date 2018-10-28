@@ -1,3 +1,3 @@
 # Hello-World
-Git 
+Git Learn
 Updates for git repo
